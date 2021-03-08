@@ -13,7 +13,7 @@ Used *Bootstrap* for making website responsive quickly.
 
 Once you add this project in your IDE, **BEFORE** you run this project you must run some SQL scripts located in "SQL-Files" folder.
 
-1) Open you MySQL workbench and login to your root user;
+1) Open your MySQL workbench and login to your root user;
 
 2) Open and run *create-myoutlet-user.sql*
    This will create user in your mysql workbench (username: myoutlet  password: myoutlet);
