@@ -36,4 +36,4 @@ Once you add this project in your IDE, **BEFORE** you run this project you must 
 7) Congrats, your app should be up and running now.
 
 8) Go to http://localhost:8080/employees to login as **mary** or **susan** and create categories, subcategories and products. 
-   Go to http://localhost:8080 to visit home page where there will be you uploaded products.
+   Go to http://localhost:8080 to visit home page where there will be your uploaded products.
